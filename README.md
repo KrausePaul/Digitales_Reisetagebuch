@@ -1,4 +1,4 @@
-# MyJournal
+# Das Digitale Reisebuch für Abenteuerer
 Das Reisetagebuch gibt dir einen festen überblick welche Trips du schon unternommen hast oder welche noch anstehen. 
 Das Ziel ist es deine Reisen in nur einem Ort zu Planen und zu Dokumentieren. 
 
